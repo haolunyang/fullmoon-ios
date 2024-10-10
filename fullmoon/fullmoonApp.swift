@@ -20,6 +20,7 @@ struct fullmoonApp: App {
                 .environmentObject(appManager)
                 .environment(llm)
                 .environment(DeviceStat())
+                .preferredColorScheme(.dark)
         }
     }
 }
