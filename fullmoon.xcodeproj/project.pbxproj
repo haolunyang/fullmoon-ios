@@ -15,7 +15,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		860E9CF12CB0649400C5BB52 /* Exceptions for "fullmoon" folder in "fullmoon" target */ = {
+		1C85BD172CB7713F00280CE2 /* Exceptions for "fullmoon" folder in "fullmoon" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -28,7 +28,7 @@
 		860E9CD02CB055B000C5BB52 /* fullmoon */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				860E9CF12CB0649400C5BB52 /* Exceptions for "fullmoon" folder in "fullmoon" target */,
+				1C85BD172CB7713F00280CE2 /* Exceptions for "fullmoon" folder in "fullmoon" target */,
 			);
 			path = fullmoon;
 			sourceTree = "<group>";
@@ -270,7 +270,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"fullmoon/Preview Content\"";
-				DEVELOPMENT_TEAM = 2VT466P8NK;
+				DEVELOPMENT_TEAM = 89CUC3YJ4X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -314,7 +314,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"fullmoon/Preview Content\"";
-				DEVELOPMENT_TEAM = 2VT466P8NK;
+				DEVELOPMENT_TEAM = 89CUC3YJ4X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
